@@ -1,0 +1,86 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+*.swp
+
+# IntelliJ project files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# IntelliJ local history
+.idea/**/localHistory/
+
+# Datasource settings
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+
+# IntelliJ plugin logs
+.idea/**/gradle.xml
+.idea/**/libraries
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+### Logs ###
+*.log
+logs/
+*.stacktrace
+
+### OS-specific ###
+.DS_Store
+Thumbs.db
+
+### Spring Boot (caso use) ###
+*.pid
+
+### JasperReports ###
+*.jasper
+*.jrprint
+
+### Arquivos temporários ###
+*.tmp
+*.bak
+*.swp
+*.swo
+
+### Test Reports ###
+surefire-reports/
+failsafe-reports/
+
+### Configurações de cache ###
+.cache/
+*.orig
+
+### Configurações opcionais ###
+# Se você usa IntelliJ mas quer salvar o code style no repositório,
+# comente esta linha para permitir salvar o arquivo:
+#.idea/codeStyles/
